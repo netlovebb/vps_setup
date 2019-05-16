@@ -7,6 +7,7 @@
 K2_BROOK="https://github.com/txthinking/brook/releases/download/v20180909/brook_linux_mipsle"
 
 
+
 # 修改成 brook 服务器实际的 IP 端口 和密码
 SERVER_IP=1.2.3.4
 PORT=9999
